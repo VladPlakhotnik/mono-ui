@@ -1,5 +1,5 @@
 {
-  "name": "@mono-ui/shared",
+  "name": "@mono-ui/sidebar",
   "version": "0.0.0",
   "private": true,
   "exports": {
